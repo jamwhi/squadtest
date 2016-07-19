@@ -6,6 +6,8 @@ Watch out for the medic who can heal his team mates.
 
 # Controls
 
-WASD to move
-Click to shoot
-Q to change weapon
+WASD to move.
+
+Click to shoot.
+
+Q to change weapon.
